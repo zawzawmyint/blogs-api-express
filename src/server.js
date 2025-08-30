@@ -4,7 +4,8 @@ const app = require("./app");
 dotenv.config();
 
 // Only start server in development/local environment
-if (process.env.NODE_ENV !== "production" && require.main === module) {
+// process.env.NODE_ENV !== "production" &&
+if (require.main === module) {
   const PORT = process.env.PORT || 3000;
 
   const server = app.listen(PORT, () => {

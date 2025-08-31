@@ -10,7 +10,7 @@ This repository contains the backend API for a blog application, built with **Ex
 
 - **API Hosting**: The API is hosted on Render at [https://blogs-api-express.onrender.com](https://blogs-api-express.onrender.com/)
 - **Database Hosting**: PostgreSQL database is hosted on Supabase
-- **Live Demo**: The frontend application using this API is available at [https://blogs-zack.vercel.app/](https://blogs-ui-nextjs-app.vercel.app/)
+- **Live Demo**: The frontend application using this API is available at [https://blogs-zack.vercel.app/](https://blogs-zack.vercel.app/)
 
 ## Technologies
 
